@@ -14,33 +14,33 @@ effect.fireproof;Résistance au feu
 effect.electricresistance;Résistance à l'électricité
 effect.attack;Attaque
 effect.defence;Défense
-items.hearty-durian;Hearty Durian
-items.palm-fruit;Palm Fruit
-items.apple;Apple
-items.wildberry;Wildberry
-items.hydromelon;Hydromelon
-items.spicy-pepper;Spicy Pepper
-items.voltfruit;Voltfruit
-items.fleet-lotus-seeds;Fleet-Lotus Seeds
-items.mighty-bananas;Mighty Bananas
-items.big-hearty-truffle;Big Hearty Truffle
-items.hearty-truffle;Hearty Truffle
-items.hylian-shroom;Hylian Shroom
-items.endura-shroom;Endura Shroom
-items.stamella-shroom;Stamella Shroom
-items.chillshroom;Chillshroom
-items.sunshroom;Sunshroom
-items.zapshroom;Zapshroom
-items.rushroom;Rushroom
-items.razorshroom;Razorshroom
-items.ironshroom;Ironshroom
-items.silent-shroom;Silent Shroom
-items.big-hearty-radish;Big Hearty Radish
-items.hearty-radish;Hearty Radish
-items.endura-carrot;Endura Carrot
-items.hyrule-herb;Hyrule Herb
-items.swift-carrot;Swift Carrot
-items.fortified-pumpkin;Fortified Pumpkin
+items.hearty-durian;Durian max
+items.palm-fruit;Noix de coco
+items.apple;Pomme
+items.wildberry;Baie
+items.hydromelon;Melon glagla
+items.spicy-pepper;Piment
+items.voltfruit;Fruit volt
+items.fleet-lotus-seeds;Fruit de lotus tempo
+items.mighty-bananas;Bananes lame
+items.big-hearty-truffle;Grosse truffe max
+items.hearty-truffle;Truffe max
+items.hylian-shroom;Champi d'Hyrule
+items.endura-shroom;Champi vigueur
+items.stamella-shroom;Champi enduro
+items.chillshroom;Champi glagla
+items.sunshroom;Champi piment
+items.zapshroom;Champi volt
+items.rushroom;Champi tempo
+items.razorshroom;Champi lame
+items.ironshroom;Champi armo
+items.silent-shroom;Champi silencio
+items.big-hearty-radish;Gros radis max
+items.hearty-radish;Radis max
+items.endura-carrot;Carotte vigueur
+items.hyrule-herb;Herbes d'Hyrule
+items.swift-carrot;Carotte tempo
+items.fortified-pumpkin;Citrouille armo
 items.cool-safflina;Cool Safflina
 items.warm-safflina;Warm Safflina
 items.electric-safflina;Electric Safflina
